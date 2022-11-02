@@ -13,3 +13,4 @@ prueba git sync
 test activador writetxt
 test write txt
 test getButton
+test ShellScript
