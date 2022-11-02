@@ -11,3 +11,5 @@ test2
 prueba correo request
 prueba git sync
 test activador writetxt
+test write txt
+test getButton
